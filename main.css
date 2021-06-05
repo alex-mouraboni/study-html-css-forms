@@ -1,0 +1,28 @@
+body {
+    background-color: #142962;
+}
+
+.caixa-do-circulo {
+    background-color: transparent;
+    display: flex;
+    justify-content: space-around;
+}
+
+.base-circulo {
+    height: 100px;
+    width: 100px;
+    margin: 20px;
+    border-radius: 50%;
+}
+
+.circulo-1 {
+    background-color: #fff;
+}
+
+.circulo-2 {
+    background-color: #000000;
+}
+
+.circulo-3 {
+    background-color: #ff1493;
+}
