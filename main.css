@@ -50,3 +50,31 @@ body {
 .quadrado-3 {
     background-color: #ff1493;
 }
+
+.caixa-da-gota {
+    background-color: transparent;
+    display: flex;
+    justify-content: space-around;
+}
+
+.base-gota {
+    height: 100px;
+    width: 100px;
+    margin: 20px;
+    border-top-left-radius: 50%;
+    border-bottom-left-radius: 50%;
+    border-top-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+}
+
+.gota-1 {
+    background-color: #fff;
+}
+
+.gota-2 {
+    background-color: #000;
+}
+
+.gota-3 {
+    background-color: #ff1493;
+}
