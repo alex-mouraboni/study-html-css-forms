@@ -26,3 +26,27 @@ body {
 .circulo-3 {
     background-color: #ff1493;
 }
+
+.caixa-do-quadrado {
+    background-color: transparent;
+    display: flex;
+    justify-content: space-around;
+}
+
+.base-quadrado {
+    height: 100px;
+    width: 100px;
+    margin: 20px;
+}
+
+.quadrado-1 {
+    background-color: #fff;
+}
+
+.quadrado-2 {
+    background-color: #000;
+}
+
+.quadrado-3 {
+    background-color: #ff1493;
+}
